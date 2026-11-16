@@ -1,5 +1,3 @@
-# Xiying Du
-
 **Research Fellow**  
 [Discrete Mathematics Group (DIMAG)](https://dimag.ibs.re.kr/)  
 Institute for Basic Science (IBS)  
