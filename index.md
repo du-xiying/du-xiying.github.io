@@ -1,8 +1,3 @@
-
----
-layout: default
----
-
 # Xiying Du
 
 **Research Fellow**  
